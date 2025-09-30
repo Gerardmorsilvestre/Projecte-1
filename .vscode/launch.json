@@ -1,0 +1,206 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExerciciExtra",
+            "request": "launch",
+            "mainClass": "ExerciciExtra",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici11",
+            "request": "launch",
+            "mainClass": "Exercici11",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici10",
+            "request": "launch",
+            "mainClass": "Exercici10",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici9",
+            "request": "launch",
+            "mainClass": "Exercici9",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici8",
+            "request": "launch",
+            "mainClass": "Exercici8",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici6",
+            "request": "launch",
+            "mainClass": "EstrucutresCondicionals.Exercici6",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici7",
+            "request": "launch",
+            "mainClass": "EstrucutresCondicionals.Exercici7",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici5",
+            "request": "launch",
+            "mainClass": "EstrucutresCondicionals.Exercici5",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici4",
+            "request": "launch",
+            "mainClass": "EstrucutresCondicionals.Exercici4",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici3",
+            "request": "launch",
+            "mainClass": "EstrucutresCondicionals.Exercici3",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici2",
+            "request": "launch",
+            "mainClass": "EstrucutresCondicionals.Exercici2",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici1",
+            "request": "launch",
+            "mainClass": "EstrucutresCondicionals.Exercici1",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalMúltiple",
+            "request": "launch",
+            "mainClass": "CondicionalMúltiple",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimple",
+            "request": "launch",
+            "mainClass": "CondicionalSimple",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimple",
+            "request": "launch",
+            "mainClass": "estructuresseqüencialscondicionals.src.CondicionalSimple",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalSimple",
+            "request": "launch",
+            "mainClass": "EstructuresSeqüencialsCondicionals.src.CondicionalSimple",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalsSImples",
+            "request": "launch",
+            "mainClass": "EstructuresCondicionals.CondicionalsSImples",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici6",
+            "request": "launch",
+            "mainClass": "Exercici6",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici5",
+            "request": "launch",
+            "mainClass": "Exercici5",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercicis1",
+            "request": "launch",
+            "mainClass": "Exercicis1",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici4",
+            "request": "launch",
+            "mainClass": "Exercici4",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici3",
+            "request": "launch",
+            "mainClass": "Exercici3",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercici2",
+            "request": "launch",
+            "mainClass": "Exercici2",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "Exercicis",
+            "request": "launch",
+            "mainClass": "Exercicis",
+            "projectName": "Projecte 1_e7323e32"
+        },
+        {
+            "type": "java",
+            "name": "AreaCircumferencia",
+            "request": "launch",
+            "mainClass": "AreaCircumferencia",
+            "projectName": "Projecte 1_e7323e32",
+            "noDebug": false,
+            "__progressId": "5b48bd0e-f36d-40e9-9378-cc5b0627d9e2",
+            "__origin": "internal"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Convertir1MillaAMetres",
+            "request": "launch",
+            "mainClass": "Convertir1MillaAMetres",
+            "projectName": "Projecte 1_e7323e32"
+        }
+    ]
+}
