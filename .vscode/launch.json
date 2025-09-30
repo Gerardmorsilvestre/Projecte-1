@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AreaCircumferencia",
+            "request": "launch",
+            "mainClass": "AreaCircumferencia",
+            "projectName": "Projecte-1_69cd090e"
+        },
+        {
+            "type": "java",
+            "name": "Exercici12",
+            "request": "launch",
+            "mainClass": "Exercici12",
+            "projectName": "Projecte-1_69cd090e"
+        },
+        {
+            "type": "java",
             "name": "ExerciciExtra",
             "request": "launch",
             "mainClass": "ExerciciExtra",
