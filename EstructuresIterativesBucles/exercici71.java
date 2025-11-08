@@ -7,7 +7,14 @@ public class exercici71{
         int quntnum;
         int cont = 0;
 
-        for(int i = 0; i !=0; i+=1 )
-
+        while (quntnum != 0){
+            if (quntnum > 0){
+                cont++;
+            } if (quntnum < 0){
+                cont++;
+            }
+        } 
+        
     }
+
 }
